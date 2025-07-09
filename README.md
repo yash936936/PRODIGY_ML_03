@@ -28,7 +28,6 @@ Implement a **Support Vector Machine (SVM)** to classify images of cats and dogs
 6. **Visualization:**  
    Display sample predictions and the confusion matrix for qualitative assessment.
 
-
 ## Results
 
 - **Accuracy:** Printed in the output.
@@ -65,7 +64,28 @@ An SVM classifier can effectively distinguish between cat and dog images when pr
 - [Microsoft Cats and Dogs Dataset][4]
 - [Kaggle Cat and Dog Dataset][2]
 
+*For further improvements, consider using feature extraction techniques or switching to convolutional neural networks for better performance on image data.*
+
 **References:**  
 - Kaggle Dogs vs. Cats: [3][5]
 - Microsoft Cats and Dogs Dataset: [4]
 - Additional Kaggle datasets: [2][6][8][9]
+
+[2]: https://www.kaggle.com/datasets/tongpython/cat-and-dog  
+[3]: https://www.kaggle.com/c/dogs-vs-cats/data  
+[4]: https://www.microsoft.com/en-us/download/details.aspx?id=54765  
+[5]: https://www.kaggle.com/competitions/dogs-vs-cats  
+[6]: https://www.kaggle.com/datasets/salader/dogs-vs-cats  
+[8]: https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset  
+[9]: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+
+[1] https://github.com/chouhbik/Kaggle-Dogs-vs-cats
+[2] https://www.kaggle.com/datasets/tongpython/cat-and-dog
+[3] https://www.kaggle.com/c/dogs-vs-cats/data
+[4] https://www.microsoft.com/en-us/download/details.aspx?id=54765
+[5] https://www.kaggle.com/competitions/dogs-vs-cats
+[6] https://www.kaggle.com/datasets/salader/dogs-vs-cats
+[7] https://www.kaggle.com/datasets/salader/dogs-vs-cats/code
+[8] https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
+[9] https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+[10] https://datasets.activeloop.ai/docs/ml/datasets/kaggle-cats-dogs-dataset/
